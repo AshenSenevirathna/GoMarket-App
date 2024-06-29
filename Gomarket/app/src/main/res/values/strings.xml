@@ -1,0 +1,56 @@
+<resources>
+    <!--Splash Activity-->
+    <string name="app_name">Gomarket</string>
+    <string name="made_by">@JIAT 2023</string>
+    <string name="version">V 1.0.0</string>
+    <!--Login Activity-->
+    <string name="login_text">Login</string>
+    <string name="login_text_email">Email</string>
+    <string name="login_email_hint">Enter Your Email</string>
+    <string name="login_text_password">Password</string>
+    <string name="login_password_hint">Enter Your Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_btn_text">Login</string>
+    <string name="have_an_account">Sign Up for GoMarket</string>
+    <string name="sign_In_with">sign in with</string>
+    <string name="google_signIn">Continue with Google</string>
+    <string name="facebook_signIn">Continue with Facebook</string>
+    <!--Register Activity-->
+    <string name="register_text">Sign Up</string>
+    <string name="register_text_firstName">First Name</string>
+    <string name="register_fName_hint">Enter Your First Name</string>
+    <string name="register_text_lastName">Last Name</string>
+    <string name="register_lName_hint">Enter Your Last Name</string>
+    <string name="register_text_email">Email</string>
+    <string name="register_email_hint">Enter Your Email </string>
+    <string name="register_text_password">Password</string>
+    <string name="register_password_hint">Enter Your Password</string>
+    <string name="register_btn_text">Sign Up</string>
+    <string name="register_account_text">If you have an account?</string>
+    <string name="register_account"> Login</string>
+    <!--Side navigation menu-->
+    <string name="side_nav_home_title">Home</string>
+    <string name="side_nav_profile_title">Profile</string>
+    <string name="side_nav_category_title">Category</string>
+    <string name="side_nav_offers_title">Offers</string>
+    <string name="side_nav_new_product_title">New Products</string>
+    <string name="side_nav_my_orders_title">My Orders</string>
+    <string name="side_nav_cart_title">Cart</string>
+    <string name="side_nav_logout_title">Logout</string>
+    <!--Bottom Navigation menu-->
+    <string name="bottom_nav_home_tittle">Home</string>
+    <string name="bottom_nav_category_tittle">Category</string>
+    <string name="bottom_nav_cart_tittle">Cart</string>
+    <string name="bottom_nav_profile_tittle">Profile</string>
+    <!--Main Activity-->
+    <string name="search_hint">Search</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    //Home fragment
+    <string name="home_search_hint">Search your item here...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+    //web client id
+    <string name="web_client_id">178151085535-313r3h95lm2kq38g5pebrt0svrganl88.apps.googleusercontent.com</string>
+</resources>
